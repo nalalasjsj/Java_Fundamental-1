@@ -5,5 +5,8 @@ public class HelloWorld {
 		System.out.println(1+2+3+"java");
 		System.out.println("java"+1+2+3+4+5);
 		System.out.println("java"+(1+2+3));
+                System.out.println(1+2+3+"java");
+		System.out.println("java"+1+2+3+4+5);
+		System.out.println("java"+(1+2+3));
 	}
 }
